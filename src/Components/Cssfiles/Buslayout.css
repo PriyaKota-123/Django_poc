@@ -1,0 +1,99 @@
+.borderdtd {
+    
+   
+    background-image: url("../Images/busmobile.jpg"); 
+    background-repeat: no-repeat;
+   padding-top: 80px;
+   padding-bottom: 80px;
+margin-top: 50px;
+    
+    background-size: 90% 100%;
+    position: sticky;
+}
+ .seatWrap {
+    padding: 9px 9px 9px 9px;
+    position: relative;
+    margin-left: 0px;
+    
+    text-align: center ;
+    min-height: 10px;
+  
+    
+}  
+
+ .left p {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 1.5em;
+ }
+
+
+p.front {
+    position: absolute;
+    left: -32px;
+    top: 42%;
+    text-transform: uppercase;
+    -webkit-transform: rotate(-90deg);
+}
+p.rear {
+    position: absolute;
+    right: -32px;
+    top: 42%;
+    text-transform: uppercase;
+    -webkit-transform: rotate(-90deg);
+    
+}
+.seatWrap .seats {
+    min-width: 80%;
+    display: inline-block;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.seatWrap p {
+    margin: 10px 0px;
+    font-size: 12px;
+    color: #a8a6a6;
+    font-weight: 300;
+}
+.lower-new span.txt-l {
+    display: block;
+    
+}
+.details .seatWrap .seats ul {
+    display: block;
+    overflow: hidden;
+}
+details .seatWrap .seats li {
+    display: inline;
+}
+ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.details .seatWrap .seats ul {
+    display: block;
+}
+.right {
+    width: 420px;
+}
+ .right {
+    padding: 13px 20px 20px 20px;
+} 
+#modalshow{
+ 
+   color: black;
+  
+}
+#lower{
+    margin-left: -900px;
+}
+#booked:focus{
+   background-color: green;
+}
+.cont{
+    margin-top: 50px;
+    margin-bottom: 300px;
+}

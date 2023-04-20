@@ -1,0 +1,31 @@
+.body1{
+    background-image: url("");
+}
+#card1{
+    margin-top: 127px;
+    margin-left: 662px;
+    width: 592px;
+    height: 580px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 6px 16px #00000029;
+    border-radius: 28px;
+    opacity: 1;
+    margin: 192px 0px 0px 567px;
+}
+.text-center{
+    width:38rem;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.loginbody{
+    background-image:url('../Images/bus-ticket.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px; 
+    background-position: center;
+    padding-top: 10px;
+    
+}

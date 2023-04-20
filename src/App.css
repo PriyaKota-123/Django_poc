@@ -1,0 +1,237 @@
+ /*.App {
+  text-align: center;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* .footer{
+
+  color: rgb(245, 249, 252);
+
+  background-color:rgb(78, 82, 223);
+
+position: sticky;
+
+  margin-top: 573px;
+
+  text-align: center;
+} */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+.background-red {
+  background-color:green;
+}
+
+.background-blue {
+  background-color:white;
+}
+#colFormLabel{
+  width: 50%;
+  text-align: center;
+}
+#colFormLabel1{
+  margin-left: 600px;
+  width:12%
+  
+}
+.gradient-custom {
+height: 630px;
+
+}
+#pcard{
+  margin-top: 150px;
+}
+#pcard1{
+  margin-top: 300px;
+  margin-left: 800px;
+}
+#btext{
+  text-size-adjust: 1px solid black;
+}
+.btuser{
+   text-size-adjust:1px solid black;
+   border: 200px;
+}
+
+#Atext{
+  padding-top: 10px;
+  color: black;
+}
+
+/* .about{ background-color:lightyellow;
+  margin-right :300px;
+  margin-left: 20px;}
+  .about1{background-color:lightyellow;} */
+
+#buttonn{
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.signhead{
+  color:black
+}
+.smallimg{
+  background-image:url('../src/Components/Images/Group\ 34.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  padding-top: 30px;
+color:black
+}
+.sidepara{
+  color:black;
+  font-family:'Times New Roman', Times, serif;
+}
+.search{
+  background-color: black;
+  color: white;
+  width: 100%;
+  border-radius: 5px;
+}
+.col{
+ 
+  border-radius: 5px;
+  width: 22rem;
+}
+.result{
+  color:black
+}
+.std{
+  border-right: 1px solid black;
+  color: black;
+}
+.stdhead{ 
+  display: flex;
+  color: black;
+  background-color: #FFFF00;
+}
+.change{
+  color:red;
+  text-decoration-line:underline;
+}
+.rh{
+color: black;
+font-family: normal normal normal;
+
+}
+.book{
+  color:white;
+  background-color: #0482AA;
+  border-radius: 3px;
+  border: none;
+  width: 60%;
+}
+.cards{
+  display: flex;
+}
+.cardexp{
+  font-size: 12px;
+  display: flex;
+}
+.card{
+  box-shadow: 0px 6px 16px #00000029;
+  
+}
+.cardno{
+  font-size: 18px;
+}
+.paytext{
+  color:#4B4848;
+ font: normal normal 600 24px/38px Segoe UI
+}
+.cardtype{
+  background-color:  rgb(224,224,224); 
+  color:black
+}
+#forminput{
+  border: 1px solid #707070;
+border-radius: 6px;
+opacity: 1
+}
+.paybutton{
+  color:white;
+  background-color: black;
+width: 100%;
+
+  border-radius: 6px;
+}
+#boxmodel{
+  background-color: rgb(224,224,224);
+  border-radius: 0px;
+  font: normal normal 600 24px/32px Segoe UI;
+  color:black
+}
+#carddp{
+  background-color: rgb(224,224,224);
+  color: black;
+  font: normal normal 600 24px/38px Segoe UI;
+}
+#hrs{
+  margin-top: 120px;
+}
+.success{
+  color:green;
+  font: normal normal 600 24px/38px Segoe UI;
+  text-align: center;
+}
+.newlocation{
+  font:  normal normal 600 44px/70px Segoe UI;
+  color: black;
+}
+.paybutton1{
+  color:white;
+  background-color: black;
+width: 100%;
+margin-bottom: 180px;
+ border-radius: 6px;
+}
+#opt{
+  color: black;
+}
+.fom{
+  font-size: medium;
+}
+#in{
+  height: 90%;
+}

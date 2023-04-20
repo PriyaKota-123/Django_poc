@@ -1,0 +1,12 @@
+.footer{
+    color: white;
+    background-color: #41403F;
+ 
+    position: relative;
+    
+    width:100%;
+    font-family: normal normal normal;
+}
+.log{
+    display: flex;
+}
